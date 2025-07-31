@@ -15,7 +15,12 @@ I will be starting my Fall AI Studio Project in a few weeks. Look for updates he
 - Also familiar with Linux and Unix OS systems; proficient in Bash Shell; worked with GDB Debugger and Ghidra
 
 ## Key Projects
-- **Cornell ML Foundations Project**
+- **Cornell ML Foundations Project**<br>
+This was the finale project of our summer-long ML course where I followed the ML Development Life Cycle to design a model that predicts the hours per week an individual spends at work based on Census data.<br>
+  - Tools Used : Python Pandas, Numpy, Scikit Learn, and Scipy.Stat packages<br>
+  - Results : Improved the model's performance by almost 20% through model selection techniqes. Did not get very high performance results.<br>
+  - Future Goals : To collect more relavent data and make design changes to improve the mode.<br>
+Check out this project along with other labs in this course here : https://github.com/shreenat/Cornell-AI-ML-Portfolio/tree/main#readme <br>
 
 
 
@@ -29,8 +34,7 @@ I used to be a gymnast and played tennis in school. I enjoy learning the piano, 
 
 
 ## Github Stats
-![Shreena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreenat&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+![Shreena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreenat&show_icons=true&theme=radical)
 <!---
 **shreenat/shreenat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
