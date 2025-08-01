@@ -22,6 +22,11 @@ This was the finale project of our summer-long ML course where I followed the ML
   - Future Goals : To collect more relavent data and make design changes to improve the mode.<br>
 Check out this project along with other labs in this course here : https://github.com/shreenat/Cornell-AI-ML-Portfolio/tree/main#readme <br>
 
+- **City Notes Website**
+  This was a hackthon project that I created with my friends. It allows you to anonymously place notes on a map and reflect on your vibes at different places. You can also read others' notes and learn more about a place.
+    - Link :
+    - Tools Used : Firebase database, React Leaflet framework, Javascript, HTML/CSS, Linux Terminal, and Visual Studio Code
+Check out the project repository : https://github.com/shreenat/City-Notes-Project/blob/main/README.md <br>
 
 
 ## Hobbies
