@@ -1,4 +1,4 @@
-# Hello I am Shreena!
+# Hello! I am Shreena.
 
 ## About Me
 I am a Second Year Undergraduate Student at the University of Maryland majoring in Computer Science and minoring in Physics and Robotics. I am also at the home stretch of my Advanced Cybersecurity Experience for Students Honors Program Citation and am in my journey through the Break Through Tech AI/ML program to deep dive into the subject, learn from experts, and gain hands-on experience in real-world projects. I am currently in the search of an internship for the Summer 2026 where I can further hone my skills technical and professional skills and explore more about Neural Networks and their applications in Computer Vision and LLMs.
@@ -20,13 +20,13 @@ This was the finale project of our summer-long ML course where I followed the ML
   - Tools Used : Python Pandas, Numpy, Scikit Learn, and Scipy.Stat packages<br>
   - Results : Improved the model's performance by almost 20% through model selection techniqes. Did not get very high performance results.<br>
   - Future Goals : To collect more relavent data and make design changes to improve the mode.<br>
-Check out this project along with other labs in this course here : https://github.com/shreenat/Cornell-AI-ML-Portfolio/tree/main#readme <br>
-
+  Check out this project along with other labs in this course here : https://github.com/shreenat/Cornell-AI-ML-Portfolio/tree/main#readme <br>
+  
 - **City Notes Website**
   This was a hackthon project that I created with my friends. It allows you to anonymously place notes on a map and reflect on your vibes at different places. You can also read others' notes and learn more about a place.
-    - Link :
+    - Link : https://citynotes.vercel.app/
     - Tools Used : Firebase database, React Leaflet framework, Javascript, HTML/CSS, Linux Terminal, and Visual Studio Code
-Check out the project repository : https://github.com/shreenat/City-Notes-Project/blob/main/README.md <br>
+  Check out the project repository : https://github.com/shreenat/City-Notes-Project/blob/main/README.md <br>
 
 
 ## Hobbies
