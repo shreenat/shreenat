@@ -51,7 +51,7 @@ Designed an ML model to predict work hours using Census data as the final projec
 - Followed the full ML development lifecycle
 - Boosted performance by ~20% via model tuning
 - Identified needs for more relevant features along with further data prep and model selection.<br>
-📎 [Project & Labs Repo](https://github.com/shreenat/Cornell-AI-ML-Portfolio/tree/main#readme)
+📎 [Project Repo](https://github.com/shreenat/ML-Foundations-Final-Project/blob/main/README.md)
 
 ---
 
