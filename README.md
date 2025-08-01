@@ -57,7 +57,7 @@ Designed an ML model to predict work hours using Census data as the final projec
 
 ### 🗺️ City Notes: Hackathon Web App  
 A collaborative project that lets users anonymously drop “vibe notes” on a digital map to reflect or explore a city through others’ eyes.  
-**Stack:** React Leaflet • Firebase • JS • HTML/CSS • Linux  
+**Stack:** React Leaflet • Firebase • JS • HTML/CSS • Windows Subsystem for Linux (WSL)  
 🔗 [Live Site](https://citynotes.vercel.app/)  
 📎 [GitHub Repo](https://github.com/shreenat/City-Notes-Project/blob/main/README.md)
 
@@ -65,26 +65,24 @@ A collaborative project that lets users anonymously drop “vibe notes” on a d
 
 ## 🌱 Outside of Code
 
-Former gymnast 🤸‍♀️ and school tennis player 🎾 turned techie! I enjoy:
+- Former gymnast 🤸‍♀️ and school tennis player 🎾
 - 🎹 Learning piano  
 - 📚 Reading fiction & non-fiction  
 - 🎨 Drawing and creative hobbies  
 - 🎬 Watching movies  
 - ☀️ Soaking up the sun with a good playlist  
-Also, I’m always down for ice cream — yes, even in winter 🍦
+Also, I’m always down for ice cream during all seasons of the year 🍦
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** [your email here]  
-- 📱 **Phone:** [your phone here]  
-- 🌐 **Portfolio:** [your personal website here]  
-- 💼 **LinkedIn:** [your LinkedIn here]
+- 📧 **Email:** shreenat@terpmail.umd.edu or shreenat@umd.edu  
+- 📱 **Phone:** 978-631-6978  
+- 🌐 **Portfolio:** https://shreenat.myportfolio.com/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shreena-thakker-9869a3220/
 
 ---
-
-_Thanks for stopping by! ✨_
 
 
 
