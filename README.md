@@ -22,7 +22,7 @@ Stay tuned for updates on my latest AI/ML project launching Fall 2025!
 ## 🛠️ Technical Skills
 
 **Languages:**  
-`Java` • `Python` • `C` • `OCaml` • `Rust` • `Assembly`
+`Java` • `Python` • `C` • `OCaml` • `Rust` • `Assembly x86`
 
 **Python Libraries:**  
 `Pandas` • `Scikit-Learn` • `Numpy` • `Keras` • `Seaborn` • `Matplotlib`
@@ -31,18 +31,29 @@ Stay tuned for updates on my latest AI/ML project launching Fall 2025!
 `VS Code` • `Jupyter Notebooks` • `Google Colab` • `Eclipse` • `GitHub and Git`
 
 **Web Dev:**  
-`HTML` • `CSS` • `JavaScript` • *Some experience with React Leaflet*
+`HTML` • `CSS` • `JavaScript` • `React` • `TypeScript` • `Firebase`
 
 **Additional Tools:**  
 - Linux & Unix systems  
 - Bash scripting  
-- GDB Debugger  and Valgrind
+- GDB Debugger and Valgrind
 - Ghidra reverse engineering  
-- ChatGPT Completion Model APIs
+- Using APIs
+- ROS2 for Robotics
 
 ---
 
 ## 📂 Highlighted Projects
+
+### 🎵 Predicting Customer Churn for Spotify
+Used Statitical Analysis techniques and both supervised and unsupervised ML models to extract patterns and insights from Spotify customer data and predict customer churn.
+**Tools:** Python, Google Colab
+**Highlights:**
+- Hypothesis Testing and exploratory data analysis revealed that customer churn is highly uniform among differet customer groups
+- Tuned the XGBoost Model which captured ~70% of customers that churned (recall score)<br>
+📎 [Project Repo](https://github.com/shreenat/shreenat.github.io)
+
+---
 
 ### 📊 Cornell ML Foundations Project  
 Designed an ML model to predict work hours using Census data as the final project of a summer-long ML course.  
