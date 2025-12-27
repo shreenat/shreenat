@@ -46,8 +46,8 @@ Stay tuned for updates on my latest AI/ML project launching Fall 2025!
 ## 📂 Highlighted Projects
 
 ### 🎵 Predicting Customer Churn for Spotify
-Used Statitical Analysis techniques and both supervised and unsupervised ML models to extract patterns and insights from Spotify customer data and predict customer churn.
-**Tools:** Python, Google Colab
+Used Statitical Analysis techniques and both supervised and unsupervised ML models to extract patterns and insights from Spotify customer data and predict customer churn.<br>
+**Tools:** Python, Google Colab<br>
 **Highlights:**
 - Hypothesis Testing and exploratory data analysis revealed that customer churn is highly uniform among differet customer groups
 - Tuned the XGBoost Model which captured ~70% of customers that churned (recall score)<br>
