@@ -45,6 +45,26 @@ Stay tuned for updates on my latest AI/ML project launching Fall 2025!
 
 ## 📂 Highlighted Projects
 
+###  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0724cd1e-ada4-4211-8a4f-25dbc64a5a47" /> LingoLearn Hackathon Project
+Designed and built a Spanish chatbot in ~12 hours (with a teammate), integrating web-dev technologies and external APIs to deliver real-time conversation and feedback for language learners.<br>
+**Tools:** Gemini API, Git Typescript, React, CSS <br>
+**Highlights:**
+- Designed prompts for the Gemini API to get conversational responses in Spanish, feedback, and suggested response.
+- The chat-bot can handle different levels of Spanish understanding and different conversational contexts and is designed to extend to other languages too.<br>
+📎 [Project Repo](https://github.com/shreenat/lingolearn)
+
+---
+
+###  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0724cd1e-ada4-4211-8a4f-25dbc64a5a47" /> LingoLearn Hackathon Project
+Designed and built a Spanish chatbot in ~12 hours (with a teammate), integrating web-dev technologies and external APIs to deliver real-time conversation and feedback for language learners.<br>
+**Tools:** Gemini API, Git Typescript, React, CSS <br>
+**Highlights:**
+- Designed prompts for the Gemini API to get conversational responses in Spanish, feedback, and suggested response.
+- The chat-bot can handle different levels of Spanish understanding and different conversational contexts and is designed to extend to other languages too.<br>
+📎 [Project Repo](https://github.com/shreenat/lingolearn)
+
+---
+
 ### 🎵 Predicting Customer Churn for Spotify
 Used Statitical Analysis techniques and both supervised and unsupervised ML models to extract patterns and insights from Spotify customer data and predict customer churn.<br>
 **Tools:** Python, Google Colab<br>
