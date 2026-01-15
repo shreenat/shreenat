@@ -1,21 +1,21 @@
 # 👋 Hello! I'm Shreena Thakkar
 
-**Computer Science + Physics & Robotics Minor**  
-ACES Honors | 🤖 Break Through Tech AI/ML Program  
+**Computer Science + Physics & Robotics Minor + Cybersecurity Minor** <br>
+ACES Honors | Hack4Impact Club | 🤖 Break Through Tech AI/ML Program  
 University of Maryland, Class of 2027
 
 ---
 
 ## ☺️ About Me
 
-I’m a passionate undergraduate student at the University of Maryland majoring in **Computer Science** and minoring in **Robotics and Autonomous Systems**. Currently I am wrapping up my **Advanced Cybersecurity Experience for Students (ACES)** Honors Program citation and I’m also diving deeper into the **Break Through Tech AI/ML** program this fall where I will be working on real-world projects, guided by industry mentors.
+I’m a passionate undergraduate student at the University of Maryland majoring in **Computer Science** and minoring in **Robotics and Autonomous Systems** and **Cybersecurity**. Currently I am wrapping up my **Advanced Cybersecurity Experience for Students (ACES)** Honors Program citation and I’m also diving deeper into the **Break Through Tech AI/ML** program this spring where I will be working on building an AI agent with a small team and industry mentors. 
 
 ---
 
 ## 🚀 Featured Project
 
-🧪 **Fall AI Studio Project (Coming Soon!)**  
-Stay tuned for updates on my latest AI/ML project launching Fall 2025!
+🧪 **Spring AI Studio Project (Coming Soon!)**  
+Stay tuned for updates on my latest AI/ML project launching Spring 2026 where I will be working on building an AI Agent!
 
 ---
 
@@ -25,7 +25,7 @@ Stay tuned for updates on my latest AI/ML project launching Fall 2025!
 `Java` • `Python` • `C` • `OCaml` • `Rust` • `Assembly x86`
 
 **Python Libraries:**  
-`Pandas` • `Scikit-Learn` • `Numpy` • `Keras` • `Seaborn` • `Matplotlib`
+`Pandas` • `Scikit-Learn` • `Numpy` • `Keras` • `Seaborn` • `Matplotlib` • `SciPy`
 
 **Tools & Platforms:**  
 `VS Code` • `Jupyter Notebooks` • `Google Colab` • `Eclipse` • `GitHub and Git`
@@ -45,13 +45,14 @@ Stay tuned for updates on my latest AI/ML project launching Fall 2025!
 
 ## 📂 Highlighted Projects
 
-###  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0724cd1e-ada4-4211-8a4f-25dbc64a5a47" /> LingoLearn Hackathon Project
-Designed and built a Spanish chatbot in ~12 hours (with a teammate), integrating web-dev technologies and external APIs to deliver real-time conversation and feedback for language learners.<br>
-**Tools:** Gemini API, Git Typescript, React, CSS <br>
+
+###  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/75d0586f-2b8d-4eb7-8ac9-56718d7e3c6b" /> Tree of Life Counseling Center AI/ML Internship
+Conducted Data Analysis on Tree of Life pateint data to determine the factors that influence morning appointment times and then built a model to predict appointment times in order to ease physician workload and improve patient access to care.<br>
+**Tools:** GitHub, Google Colab, Python, Python Libraries (Numpy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-Learn <br>
 **Highlights:**
-- Designed prompts for the Gemini API to get conversational responses in Spanish, feedback, and suggested response.
-- The chat-bot can handle different levels of Spanish understanding and different conversational contexts and is designed to extend to other languages too.<br>
-📎 [Project Repo](https://github.com/shreenat/lingolearn)
+- Used statistical tests and data visualization to find that majority of morning patients were between the age 30-40 and patients coming in for medication managament appointments were more likely to prefer morning times.
+- Captured 91% of the morning clients after building 5 models and performing hyperparameter tuning.<br>
+📎 [Project Repo](https://github.com/Rose-Petals/TOL-1B)
 
 ---
 
