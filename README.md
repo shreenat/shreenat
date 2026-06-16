@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Shreena Thakkar
 
-**Computer Science + Physics & Robotics Minor + Cybersecurity Minor** <br>
+**Computer Science + Robotics and Autonomous Systems Minor + Cybersecurity Minor** <br>
 ACES Honors | Hack4Impact Club | 🤖 Break Through Tech AI/ML Program  
 University of Maryland, Class of 2027
 
